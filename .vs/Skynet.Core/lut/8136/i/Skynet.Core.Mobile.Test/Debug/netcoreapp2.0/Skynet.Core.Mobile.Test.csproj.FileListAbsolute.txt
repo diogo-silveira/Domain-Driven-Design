@@ -1,0 +1,4 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Mobile.Test\Debug\netcoreapp2.0\Skynet.Core.Mobile.Test.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Mobile.Test\Debug\netcoreapp2.0\Skynet.Core.Mobile.Test.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Mobile.Test\Debug\netcoreapp2.0\Skynet.Core.Mobile.Test.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Mobile.Test\Debug\netcoreapp2.0\Skynet.Core.Mobile.Test.csprojResolveAssemblyReference.cache

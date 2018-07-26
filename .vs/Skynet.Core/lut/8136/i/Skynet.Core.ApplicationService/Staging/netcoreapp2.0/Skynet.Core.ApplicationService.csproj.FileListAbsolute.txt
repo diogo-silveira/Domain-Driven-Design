@@ -1,0 +1,10 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.csprojResolveAssemblyReference.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.ApplicationService\Staging\netcoreapp2.0\Skynet.Core.ApplicationService.pdb

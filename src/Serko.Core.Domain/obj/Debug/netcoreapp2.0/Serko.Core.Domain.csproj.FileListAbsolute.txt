@@ -1,0 +1,14 @@
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\bin\Debug\netcoreapp2.0\Serko.Core.Domain.deps.json
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\bin\Debug\netcoreapp2.0\Serko.Core.Domain.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\bin\Debug\netcoreapp2.0\Serko.Core.Domain.pdb
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.csprojResolveAssemblyReference.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.Resources.Messages.resources
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.csproj.GenerateResource.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.csproj.CoreCompileInputs.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.AssemblyInfoInputs.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.AssemblyInfo.cs
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.csproj.CopyComplete
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Domain\obj\Debug\netcoreapp2.0\Serko.Core.Domain.pdb

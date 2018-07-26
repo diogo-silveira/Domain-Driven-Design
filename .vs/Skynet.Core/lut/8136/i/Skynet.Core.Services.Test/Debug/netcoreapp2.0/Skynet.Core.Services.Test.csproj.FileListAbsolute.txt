@@ -1,0 +1,15 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.runtimeconfig.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.runtimeconfig.dev.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Services.Test\Debug\netcoreapp2.0\Skynet.Core.Services.Test.csprojResolveAssemblyReference.cache

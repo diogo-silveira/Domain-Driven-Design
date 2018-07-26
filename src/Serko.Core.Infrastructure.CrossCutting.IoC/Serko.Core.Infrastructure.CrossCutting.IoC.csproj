@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Configurations>Debug;Release;Staging</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidator" Version="2.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Serko.Core.ApplicationService\Serko.Core.ApplicationService.csproj" />
+    <ProjectReference Include="..\Serko.Core.Domain\Serko.Core.Domain.csproj" />
+    <ProjectReference Include="..\Serko.Core.Infrastructure.Data\Serko.Core.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\Serko.Core.Service\Serko.Core.Service.csproj" />
+  </ItemGroup>
+
+</Project>

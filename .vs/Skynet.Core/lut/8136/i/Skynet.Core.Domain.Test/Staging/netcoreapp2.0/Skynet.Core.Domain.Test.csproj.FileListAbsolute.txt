@@ -1,0 +1,14 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.runtimeconfig.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.runtimeconfig.dev.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain.Test\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.pdb

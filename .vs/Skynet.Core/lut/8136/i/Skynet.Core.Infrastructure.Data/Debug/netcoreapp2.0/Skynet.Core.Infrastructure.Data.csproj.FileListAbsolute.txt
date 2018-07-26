@@ -1,0 +1,12 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\appsettings.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.Properties.Resources.resources
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.csproj.GenerateResource.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.Data\Debug\netcoreapp2.0\Skynet.Core.Infrastructure.Data.pdb

@@ -1,0 +1,14 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Data.Test.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Data.Test.runtimeconfig.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Data.Test.runtimeconfig.dev.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Data.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Data.Test.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Data.Test.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Data.Test.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Data.Test.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Data.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Data.Test.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Data.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Data.Test.csprojResolveAssemblyReference.cache

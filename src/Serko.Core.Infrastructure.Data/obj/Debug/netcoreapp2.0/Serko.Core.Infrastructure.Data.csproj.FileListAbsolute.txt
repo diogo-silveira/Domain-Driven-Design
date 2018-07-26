@@ -1,0 +1,15 @@
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\bin\Debug\netcoreapp2.0\appsettings.json
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\bin\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.deps.json
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\bin\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\bin\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.pdb
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\bin\Debug\netcoreapp2.0\Serko.Core.Domain.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\bin\Debug\netcoreapp2.0\Serko.Core.Domain.pdb
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.csprojResolveAssemblyReference.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.Properties.Resources.resources
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.csproj.GenerateResource.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.csproj.CoreCompileInputs.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.AssemblyInfoInputs.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.AssemblyInfo.cs
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.csproj.CopyComplete
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.Infrastructure.Data\obj\Debug\netcoreapp2.0\Serko.Core.Infrastructure.Data.pdb

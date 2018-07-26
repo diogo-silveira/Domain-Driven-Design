@@ -1,0 +1,12 @@
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\bin\Debug\netcoreapp2.0\Serko.Core.ApplicationService.deps.json
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\bin\Debug\netcoreapp2.0\Serko.Core.ApplicationService.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\bin\Debug\netcoreapp2.0\Serko.Core.ApplicationService.pdb
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\bin\Debug\netcoreapp2.0\Serko.Core.Domain.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\bin\Debug\netcoreapp2.0\Serko.Core.Domain.pdb
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\obj\Debug\netcoreapp2.0\Serko.Core.ApplicationService.csprojResolveAssemblyReference.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\obj\Debug\netcoreapp2.0\Serko.Core.ApplicationService.csproj.CoreCompileInputs.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\obj\Debug\netcoreapp2.0\Serko.Core.ApplicationService.AssemblyInfoInputs.cache
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\obj\Debug\netcoreapp2.0\Serko.Core.ApplicationService.AssemblyInfo.cs
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\obj\Debug\netcoreapp2.0\Serko.Core.ApplicationService.csproj.CopyComplete
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\obj\Debug\netcoreapp2.0\Serko.Core.ApplicationService.dll
+L:\Serko\Serko\serko\Serko.Core\src\Serko.Core.ApplicationService\obj\Debug\netcoreapp2.0\Serko.Core.ApplicationService.pdb

@@ -1,0 +1,16 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\appsettings.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.runtimeconfig.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.runtimeconfig.dev.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.csprojResolveAssemblyReference.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Test\Debug\netcoreapp2.0\Skynet.Core.Whs.Test.pdb

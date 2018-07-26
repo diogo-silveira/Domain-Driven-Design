@@ -1,0 +1,10 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Infrastructure.CrossCutting.IoC\Staging\netcoreapp2.0\Skynet.Core.Infrastructure.CrossCutting.IoC.pdb

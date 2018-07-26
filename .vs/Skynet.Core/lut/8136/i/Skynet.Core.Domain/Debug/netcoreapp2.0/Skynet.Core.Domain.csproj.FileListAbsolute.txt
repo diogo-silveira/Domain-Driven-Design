@@ -1,0 +1,12 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.Resources.Messages.resources
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.csproj.GenerateResource.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Domain\Debug\netcoreapp2.0\Skynet.Core.Domain.csprojResolveAssemblyReference.cache

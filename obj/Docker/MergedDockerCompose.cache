@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  skynet.core.whs.api:
+    build:
+      context: L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core
+      dockerfile: src\Skynet.Core.Mobile.Api\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: skynetcorewhsapi
+    ports:
+    - 80/tcp
+version: '3.0'

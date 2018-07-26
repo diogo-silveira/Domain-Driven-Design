@@ -1,0 +1,13 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\appsettings.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.runtimeconfig.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.runtimeconfig.dev.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\b\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.csproj.CopyComplete
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\.vs\Skynet.Core\lut\0\i\Skynet.Core.Whs.Api\Debug\netcoreapp2.0\Skynet.Core.Whs.Api.csprojResolveAssemblyReference.cache

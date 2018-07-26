@@ -1,0 +1,14 @@
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.deps.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.runtimeconfig.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.runtimeconfig.dev.json
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\bin\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.pdb
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.csprojResolveAssemblyReference.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.csproj.CoreCompileInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.AssemblyInfoInputs.cache
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.AssemblyInfo.cs
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.dll
+L:\dev\OneDrive\Skynet\Backend\Core\Skynet.Core\tests\Skynet.Core.Domain.Test\obj\Staging\netcoreapp2.0\Skynet.Core.Domain.Test.pdb

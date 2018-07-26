@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVpMUlDxbb0mMjGyAE42m+AAAAAACAAAAAAADZgAAwAAAABAAAADnT4fasRREekoWWDE005UyAAAAAASAAACgAAAAEAAAAO1ybira3JaN/bhhsrXH1vUYAAAAFiq4Uy7hJUeoZzaTUt8IeJmANUW5ZhFaFAAAAFzE0nA7ivz9OMt0gs8C3kTaRGYM</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=nextdb;Initial Catalog=WH4;Persist Security Info=True;User ID=sa;Password=Brazil1500</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
